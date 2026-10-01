@@ -1,4 +1,11 @@
-<h1 align="center">Hi there, I'm Sagnik Kundu 👋</h1>
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien.png" alt="Alien" width="45" height="45" />
+  Sagnik Kundu
+</h1>
+
+<p align="center">
+  <img src="assets/intro.svg" alt="Alien coding on a laptop while a neural network lights up" width="100%" />
+</p>
 
 <h3 align="center">AI & Data Science Enthusiast · Machine Learning · Data Analytics · FinTech</h3>
 
@@ -11,21 +18,9 @@
 
 ---
 
-## 👽 About Me
+## 🧑‍💻 About Me
 
-```python
-class SagnikKundu:
-    def __init__(self):
-        self.education  = "B.Tech CSE (AI & Data Science) @ SASTRA Deemed University, 2024–2028"
-        self.based_in   = "Kolkata, India"
-        self.focus      = ["Machine Learning", "Data Science", "Data Analytics", "FinTech"]
-        self.learning   = ["Cloud Computing ☁️", "Deep Learning"]
-        self.open_to    = ["AI / ML Engineer", "Data Scientist", "Data Analyst"]
-
-    def motto(self):
-        return "Turning data into decisions."
-```
-
+- 🎓 B.Tech in Computer Science (AI & Data Science) at **SASTRA Deemed University** (2024–2028)
 - 🤖 I build machine-learning models and data pipelines, and I like projects that simulate the real world
 - 📊 I enjoy digging into large datasets to find trends, patterns and stories
 - 💹 Especially interested where **AI meets finance**
@@ -36,14 +31,11 @@ class SagnikKundu:
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ### 💹 [FinSim](https://github.com/sagnik5549/FinSim)
-**Financial Decision Simulation Platform**
 
-A full-stack game where you manage an investment fund on a simulated market under risk limits, time pressure and surprise events.
+<img src="assets/finsim.svg" alt="FinSim trading terminal animation" width="100%" />
+
+**Financial Decision Simulation Platform.** A full-stack game where you manage an investment fund on a simulated market under risk limits, time pressure and surprise events.
 
 - ML model that classifies player behaviour (conservative → speculative), with a rule-based fallback
 - Adaptive "director" that tunes market events based on gameplay
@@ -51,48 +43,40 @@ A full-stack game where you manage an investment fund on a simulated market unde
 
 `Python` `Scikit-learn` `XGBoost` `FastAPI` `React` `PostgreSQL` `Docker`
 
-</td>
-<td width="50%" valign="top">
-
 ### 📊 [Global Market Analysis (2000–2026)](https://github.com/sagnik5549/Market_Analysis_2000_Present)
-**26 years of markets, decoded**
 
-Analysed **187,611+** records across stocks, commodities, currencies and crypto to uncover long-term trends and volatility patterns.
+<img src="assets/market.svg" alt="26 years of market data with crashes highlighted" width="100%" />
+
+**26 years of markets, decoded.** Analysed **187,611+** records across stocks, commodities, currencies and crypto to uncover long-term trends and volatility patterns.
 
 - Compared asset behaviour during the Dot-Com Crash, 2008 Financial Crisis and COVID-19
 - Exploratory data analysis and visualisation of shifts in performance and trading activity
 
 `Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🔐 [Elliptic Curve Cryptography in C](https://github.com/sagnik5549/Elliptic-Curve-Cryptography-ECC-in-C)
-**ECC built from scratch**
 
-Finite-field arithmetic, point operations, scalar multiplication, key generation, ECDH key exchange, encryption/decryption and curve visualisation.
+<img src="assets/ecc.svg" alt="Elliptic curve point addition and ECDH key exchange" width="100%" />
+
+**ECC built from scratch.** Finite-field arithmetic, point addition and doubling, scalar multiplication, key generation, ECDH key exchange, encryption/decryption and curve visualisation.
 
 `C` `GMP` `Python`
 
-</td>
-<td width="50%" valign="top">
-
 ### 🧩 [KDS Hackathon 2026](https://github.com/sagnik5549/kds_hackathon_2026)
-**Backstory Consistency Verification System**
 
-A system built for the KDS Hackathon 2026 to check whether character backstories stay consistent.
+<img src="assets/kds.svg" alt="Backstory claims checked against the novel" width="100%" />
+
+**Backstory Consistency Verification System.** Checks whether claims in a character's backstory are supported or contradicted by the story itself.
 
 `Python`
-
-</td>
-</tr>
-</table>
 
 ---
 
 ## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="assets/stack.svg" alt="Data to insight pipeline" width="100%" />
+</p>
 
 **🧠 Machine Learning & Data Science**
 
